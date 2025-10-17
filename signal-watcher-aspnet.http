@@ -1,0 +1,6 @@
+@signal_watcher_aspnet_HostAddress = http://localhost:5147
+
+GET {{signal_watcher_aspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

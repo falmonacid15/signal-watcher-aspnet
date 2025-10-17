@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J04jHn1mhG4=",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\projects\\signal-watcher-aspnet\\signal-watcher-aspnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
