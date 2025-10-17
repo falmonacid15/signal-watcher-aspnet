@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("signal-watcher-aspnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb6e2e42ae1dded1b3fc1887b3d3797fa4d2b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("signal-watcher-aspnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("signal-watcher-aspnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
